@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#D8D8D8;
+}
+.main_container{
+    width: 1160px;
+    height: 528px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    background-color:#D8D8D8;
+    border-radius:16px;
+}
+.left_section{
+    width: 360px;
+    height: 528px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+}
+.mid_section{
+    width: 360px;
+    height: 528px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    
+}
+.right_section{
+    width: 360px;
+    height: 528px;
+    border-radius: 16px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   background-color: white;
+
+    
+}
+.leftsect_heading{
+    display: flex;
+    padding-left: 24px;
+    padding-right: 24px;
+    justify-content: space-between;
+    
+    
+}
+.leftsect_h1{
+    color:#081F32;
+    font-weight: 400;
+    font-family:'DM Serif Display';
+    
+    
+}
+.leftsect_icons{
+    width: 54px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+
+}
+.leftsect_paragraph{
+    margin-left: 24px;
+    color:#6E798C;
+    font-family:'open sans';
+    
+}
+.leftsect_info{
+    padding-left: 24px;
+    padding-right: 24px;
+    display: flex;
+    justify-content: space-between;
+    font-family:'open sans';
+    color: #A5ADBB;
+   
+}
+.leftsect_pay{
+    display: flex;
+    justify-content: space-between;
+}
+.leftsect_prices{
+display: flex;
+justify-content: space-between;
+padding-left: 24px;
+
+}
+.new_price{
+    width: 88px;
+    height: 25px;
+    font-size: 28px;
+    font-family:'DM Serif Display';
+    color:#081F32;
+
+}
+.old_price{
+    width: 73px;
+    height: 25px;
+    margin-top: 5px;
+    font-size: 20px;
+    font-family:'DM Serif Display';
+    color: #F8593B;
+    text-decoration: line-through;
+}
+.order{
+    background-color: #2ECC71;
+    width: 114px;
+    height: 44px;
+    color: white;
+    border-radius: 4px;
+    border:none;
+    margin-right: 24px;
+    margin-bottom: 30px;
+   font-family:'DM Serif Display'
+}
+.mid_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.midsect_heading{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top:10px;
+}
+.midsect_h1{
+    color:#081F32;
+    font-weight: 400;
+    font-family:'DM Serif Display';
+}
+.midsect_icons{
+    width: 90px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.midsect_paragraph{
+    margin-left: 24px;
+    color:#6E798C;
+    font-family:'open sans';
+}
+.midsect_info{
+    display: flex;
+    justify-content:space-between;
+    font-family:'open sans';
+    color: #A5ADBB;
+    padding-left: 24px;
+    padding-right: 24px;
+
+
+}
+.midsect_order{
+    display: flex;
+    justify-content: space-between;
+
+}
+.midsect_prices{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 24px;
+
+}
+
+.fire{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+   background-color:#F8593B;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.wheat{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color:#FFC22B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.leaf{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color:#2ECC71 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rightsect_header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 24px;
+}
+
+.rightsect_h1{
+    color:#081F32;
+    font-weight: 400;
+    font-family:'DM Serif Display';
+    
+    
+}
+.rightsect_icons{
+    width: 54px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+
+}
+.rightsect_paragraph{
+    margin-left: 24px;
+    color:#6E798C;
+    font-family:'open sans';
+    
+}
+.rightsect_info{
+    padding-left: 24px;
+    padding-right: 24px;
+    display: flex;
+    justify-content: space-between;
+    font-family:'open sans';
+    color: #A5ADBB;
+   
+}
+.rightsect_pay{
+    display: flex;
+    justify-content: space-between;
+}
+.rightsect_prices{
+display: flex;
+justify-content: space-between;
+padding-left: 24px;
+
+}

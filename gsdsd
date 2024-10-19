@@ -1,0 +1,23 @@
+<div class="left_section">
+    <div class="picture"><img src="./images/Pizza Photo.png" alt="Pepperoni"></div>
+    <div class="leftsect_heading">
+<div class="leftsect_heading">
+               <div class="rightsect_h1"><h1>Pepperoni Pizza</h1></div>
+               <div class="rightsect_icons">
+                <div class="fire"><img src="./icons/fire.png" alt="fire icon"></div>
+                <div class="wheat"><img src="./icons/wheat.png" alt=""></div>
+               </div>
+            </div>
+            <div class="rightsect_paragraph"><p>Premium pepperoni and cheese is made <br> with real mozzarella on original <br> hand-tossed crust.</p></div>
+            <div class="rightsect_info">
+                <div class="rightsect_calories "><p>265 Cal</p></div>
+                <div class="rightsect_cuts "><p>P/F/C: 12/10/31 </p></div>
+                <div class="rightsect_temperature ">53.8 °C</div>
+            </div>
+            <div class="rightsect_pay">
+                <div class="rightsect_prices">                   
+                    <div class="new_price">$23.90</div>
+                    <div class="old_price">$29.90</div>
+                </div>
+               <button class="order">O R D E R</button>
+            </div>
